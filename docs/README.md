@@ -124,7 +124,7 @@
    command seperti ini :
 
    ```bash
-   git clone https://github.com/amsitlab/smsid-java.git
+   git clone https://github.com/yhung27/smsid-java.git
    ```
    Tunggu beberapa saat hingga program git selesai
    menyalin, jika sudah lanjut ketahap berikutnya,
